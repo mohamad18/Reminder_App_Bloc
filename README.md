@@ -2,6 +2,11 @@
 
 Applikasi sederhana untuk menampilkan aktifitas harian yang sudah dijadwalkan. User harus input data reminder dan set waktu yang di inginkan. sehingga app akan menampilkan notfication sesuai dengan jadwal yang sudah di setting.
 
+## Noted
+
+Di beberapa device untuk local notification ada yang sudah langsung tampil, dan ada yang belum.
+Jika belum bisa cek setting notification Reminder **[ aktifkan permission notification ]**
+
 ## Getting Started
 
 Untuk running project ini
