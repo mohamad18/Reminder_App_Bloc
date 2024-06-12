@@ -18,4 +18,4 @@ Ada beberapa yang dilakukan :
   - fvm flutter run
 
 ## Screenshot
-<img src = "screenshot/Screenshot_1.jpg" width = 192></img> <img src = "screenshot/Screenshot_2.jpg" width = 192></img><img src = "screenshot/Screenshot_3.jpg" width = 192></img><img src = "screenshot/Screenshot_4.jpg" width = 192></img><img src = "screenshot/Screenshot_5.jpg" width = 192></img><img src = "screenshot/Screenshot_6.jpg" width = 192></img><img src = "screenshot/Screenshot_7.jpg" width = 192></img><img src = "screenshot/Screenshot_8.jpg" width = 192></img>
+<img src = "screenshot/Screenshot_1.jpg" width = 192></img> <img src = "screenshot/Screenshot_2.jpg" width = 192></img><img src = "screenshot/Screenshot_3.jpg" width = 192></img><img src = "screenshot/Screenshot_4.jpg" width = 192></img><img src = "screenshot/Screenshot_5.jpg" width = 192></img><img src = "screenshot/Screenshot_5_1.jpg" width = 192></img><img src = "screenshot/Screenshot_6.jpg" width = 192></img><img src = "screenshot/Screenshot_7.jpg" width = 192></img><img src = "screenshot/Screenshot_8.jpg" width = 192></img>
