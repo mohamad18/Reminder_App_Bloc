@@ -1,0 +1,38 @@
+name: reminderapp_test
+description: "A new Flutter project."
+
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.2.3 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  flutter_local_notifications:
+  sqflite:
+  flutter_timezone: ^1.0.4
+  equatable: ^2.0.5
+  flutter_bloc: ^8.1.1
+  get_it: ^7.2.0
+  dartz: ^0.10.1
+  firebase_messaging: ^14.7.5
+  firebase_core: ^2.23.0
+  permission_handler: ^11.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter_icons:
+  android: "ic_launcher"
+  ios: true
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
